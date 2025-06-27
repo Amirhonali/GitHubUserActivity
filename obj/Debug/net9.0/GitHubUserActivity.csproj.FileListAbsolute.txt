@@ -1,0 +1,14 @@
+/Users/amirhon/RoadMapProjects/GitHubUserActivity/bin/Debug/net9.0/GitHubUserActivity
+/Users/amirhon/RoadMapProjects/GitHubUserActivity/bin/Debug/net9.0/GitHubUserActivity.deps.json
+/Users/amirhon/RoadMapProjects/GitHubUserActivity/bin/Debug/net9.0/GitHubUserActivity.runtimeconfig.json
+/Users/amirhon/RoadMapProjects/GitHubUserActivity/bin/Debug/net9.0/GitHubUserActivity.dll
+/Users/amirhon/RoadMapProjects/GitHubUserActivity/bin/Debug/net9.0/GitHubUserActivity.pdb
+/Users/amirhon/RoadMapProjects/GitHubUserActivity/obj/Debug/net9.0/GitHubUserActivity.GeneratedMSBuildEditorConfig.editorconfig
+/Users/amirhon/RoadMapProjects/GitHubUserActivity/obj/Debug/net9.0/GitHubUserActivity.AssemblyInfoInputs.cache
+/Users/amirhon/RoadMapProjects/GitHubUserActivity/obj/Debug/net9.0/GitHubUserActivity.AssemblyInfo.cs
+/Users/amirhon/RoadMapProjects/GitHubUserActivity/obj/Debug/net9.0/GitHubUserActivity.csproj.CoreCompileInputs.cache
+/Users/amirhon/RoadMapProjects/GitHubUserActivity/obj/Debug/net9.0/GitHubUserActivity.dll
+/Users/amirhon/RoadMapProjects/GitHubUserActivity/obj/Debug/net9.0/refint/GitHubUserActivity.dll
+/Users/amirhon/RoadMapProjects/GitHubUserActivity/obj/Debug/net9.0/GitHubUserActivity.pdb
+/Users/amirhon/RoadMapProjects/GitHubUserActivity/obj/Debug/net9.0/GitHubUserActivity.genruntimeconfig.cache
+/Users/amirhon/RoadMapProjects/GitHubUserActivity/obj/Debug/net9.0/ref/GitHubUserActivity.dll
